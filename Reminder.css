@@ -1,0 +1,7 @@
+/* Reminder.css */
+
+.modern-calendar {
+    background-color: #f8d433; /* Dark background for the calendar */
+    color: rgb(0, 0, 0); /* Set font color to white */
+    border: 1px solid #34495e; 
+}    
